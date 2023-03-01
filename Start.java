@@ -29,7 +29,7 @@ public class Start {
 
         System.out.println(longerThan20("halloservustachchen"));
         System.out.println(isItInThere("fancything"));
-        System.out.println(callIt("fancywordtttttttttttttt"));
+        System.out.println(callIt("fancyworddfggtttttttttttttt"));
 
     }
     public static boolean callIt (String myString)
